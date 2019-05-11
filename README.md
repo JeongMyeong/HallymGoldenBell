@@ -1,5 +1,5 @@
 
-# github 사용법을 익히기위해 만든 git입니다.
+# github 사용법을 익히기위해 만든 repository입니다.
 
 #### 5월15일 진행하는 한림대학교 SW숲 대회 중 도전골든벨 문제를 문답형식으로 풀 수 있도록 만든 프로그램
 - [공지바로가기](https://www.hallym.ac.kr/sub05/cP3/sCP1.html?action=read&nttId=16309885&pageIndex=1&searchType=0&searchWrd=%EA%B3%A8%EB%93%A0)
