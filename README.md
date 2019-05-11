@@ -8,5 +8,5 @@
 - [PDF to Excel](https://smallpdf.com/kr/pdf-to-excel)
 - 문제를 csv 로 변환한 파일은 goldenbel.csv로 해당 git에 등록되어있습니다.
 
-### 문제점
+#### 문제점
 - 답과 정확히 일치해야하는 문제가 있습니다. ex) 정답이 전자상거래(e-commerce)일 경우 전자상거래라고만 적으면 오답이라고 결과가 나옴.  
